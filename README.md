@@ -34,3 +34,32 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# TodoApp-FS-SK4
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 📌 Project Overview
+
+**TodoApp-FS-SK4** is a simple Todo List application built with **Next.js** and **Tailwind CSS** as part of the Fullstack SK Week 4 task.  
+This app allows users to manage daily tasks with basic functionality like:
+
+- Add new todo
+- Edit todo item
+- Mark as completed
+- Delete task
+- Responsive layout
+
+This project was created by **DonAdhyatma**.
+
+---
+
+## 🖼️ Screenshot
+
+Here is a preview of the application UI:
+
+![Todo App Screenshot](./todo-app.png)
+
+> 💡 _Place the screenshot image inside the `/public` folder with the name `screenshot-todoapp.png` to make the above image render properly on GitHub._
+
+---
