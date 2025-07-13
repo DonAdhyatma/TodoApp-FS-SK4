@@ -58,6 +58,6 @@ This project was created by **Danni A. Rachman**.
 
 Here is a preview of the application UI:
 
-![Todo App Screenshot](https://github.com/DonAdhyatma/TodoApp-FS-SK4/blob/main/public/todo-app.png)
+![Todo App Screenshot](https://github.com/DonAdhyatma/TodoApp-FS-SK4/blob/main/public/todoapp.png)
 
 ---
