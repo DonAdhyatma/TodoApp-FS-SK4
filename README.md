@@ -58,7 +58,7 @@ This project was created by **DonAdhyatma**.
 
 Here is a preview of the application UI:
 
-![Todo App Screenshot](./todo-app.png)
+![Todo App Screenshot](https://github.com/DonAdhyatma/TodoApp-FS-SK4/blob/main/public/todo-app.png)
 
 > 💡 _Place the screenshot image inside the `/public` folder with the name `todo-app.png` to make the above image render properly on GitHub._
 
