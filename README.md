@@ -50,7 +50,7 @@ This app allows users to manage daily tasks with basic functionality like:
 - Delete task
 - Responsive layout
 
-This project was created by **DonAdhyatma**.
+This project was created by **Danni A. Rachman**.
 
 ---
 
