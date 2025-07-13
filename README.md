@@ -60,6 +60,6 @@ Here is a preview of the application UI:
 
 ![Todo App Screenshot](./todo-app.png)
 
-> 💡 _Place the screenshot image inside the `/public` folder with the name `screenshot-todoapp.png` to make the above image render properly on GitHub._
+> 💡 _Place the screenshot image inside the `/public` folder with the name `todo-app.png` to make the above image render properly on GitHub._
 
 ---
